@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+div{
+    color: chartreuse;
+}
+
+h1, h3{
+    display: inline-block;
+}
+
+button{
+    padding: 10px;
+    margin: 5px;
+    background-color: chartreuse;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: cornsilk;
+}
